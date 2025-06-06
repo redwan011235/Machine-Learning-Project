@@ -33,4 +33,6 @@ This project applies the K-Nearest Neighbors (KNN) algorithm to classify breast 
 - The model maintained robust performance with minimal false negatives, which is vital for early detection of cancer.
 - K=5 was used for KNN, yielding a balance between underfitting and overfitting.
 - The pipeline includes proper data cleaning, handling of missing values, and model evaluation using ```classification_report``` and ```confusion_matrix```.
+## Conclusion
+The K-Nearest Neighbors (KNN) algorithm proved to be an effective method for classifying breast cancer as benign or malignant using clinical data. With an accuracy of around 96%, the model demonstrates strong potential in aiding early cancer diagnosis. Proper preprocessing, feature handling, and parameter tuning contributed to the model's performance and reliability. This project highlights the practical application of machine learning in healthcare and sets the foundation for further improvements using more advanced techniques and larger datasets.
 
