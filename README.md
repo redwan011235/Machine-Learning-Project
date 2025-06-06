@@ -32,5 +32,5 @@ This project applies the K-Nearest Neighbors (KNN) algorithm to classify breast 
 - StandardScaler preprocessing helped improve model accuracy by normalizing feature scales.
 - The model maintained robust performance with minimal false negatives, which is vital for early detection of cancer.
 - K=5 was used for KNN, yielding a balance between underfitting and overfitting.
-- The pipeline includes proper data cleaning, handling of missing values, and model evaluation using classification_report and confusion_matrix.
+- The pipeline includes proper data cleaning, handling of missing values, and model evaluation using ```classification_report``` and ```confusion_matrix```.
 
